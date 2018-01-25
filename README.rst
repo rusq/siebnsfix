@@ -8,6 +8,14 @@ This program implements instructions written in this guide_.
 
 .. _guide: https://github.com/rusq/siebns_size/tree/master/guide
 
+Download siebns fix
+-------------------
+
+You can download a compiled version for your platform from `Releases page`_.
+
+.. _`Releases page`: https://github.com/rusq/siebnsfix/releases
+
+
 Compiling from source
 ---------------------
 
